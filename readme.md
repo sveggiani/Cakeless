@@ -1,4 +1,4 @@
-# Cakeless - A very simple lessphp CakePHP plugin #
+# Cakeless - A very simple lessphp plugin for CakePHP #
 
 This plugin is a very simple implementation of [lessphp](http://leafo.net/lessphp/) for CakePHP 1.3.
 
