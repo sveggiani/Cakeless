@@ -40,16 +40,16 @@ Simply link to the CSS file as usual:
 
 * PHP version: PHP 5.2+
 * CakePHP version: Cakephp 1.3 Stable
-* phpless version: 0.2.0 (included in <code>/vendors</code> folder)
+* lessphp version: 0.2.0 (included in <code>/vendors</code> folder)
 
 ## Support ##
 
 For support and feature request, please use the repository [Issues section at GitHub](https://github.com/sveggiani/Cakeless/issues).
 
-## About LESS and phpless ##
+## About LESS and lessphp ##
 
 If you want to know more about **LESS syntax** please check [the official LESS documentation](http://lesscss.org/).
-For **phpless** extended documentation and downloads please visit [the official phpless website](http://leafo.net/lessphp/).
+For **lessphp** extended documentation and downloads please visit [the official lessphp website](http://leafo.net/lessphp/).
 
 ## License ##
 
