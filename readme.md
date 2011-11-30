@@ -40,7 +40,7 @@ Simply link to the CSS file as usual:
 
 * PHP version: PHP 5.2+
 * CakePHP version: Cakephp 1.3 Stable
-* lessphp version: 0.2.0 (included in <code>/vendors</code> folder)
+* lessphp version: 0.2.0 (no need to download, included in <code>/vendors</code> folder)
 
 ## Support ##
 
