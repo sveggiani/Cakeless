@@ -20,7 +20,7 @@ class CakelessComponent extends Object {
 		// imports LESSPHP Class (only for debug modes)
 		if ( Configure::read('debug') > 0 ) {
 
-			App::import('Vendor', 'Cakeless.lessphp/lessc');
+			App::import('Vendor', 'Cakeless.lessphp', array('file' => 'lessc.inc.php') );
 
 		}
 
