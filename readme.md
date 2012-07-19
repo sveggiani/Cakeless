@@ -1,6 +1,6 @@
 # Cakeless - A very simple lessphp plugin for CakePHP #
 
-This plugin is a very simple implementation of [lessphp](http://leafo.net/lessphp/) for CakePHP 1.3.
+This plugin is a very simple implementation of [lessphp](http://leafo.net/lessphp/) for CakePHP 2.x.
 
 To use Cakeless download and unzip the plugin or clone git repository in <code>plugins/cakeless</code>.
 
@@ -9,9 +9,13 @@ To use Cakeless download and unzip the plugin or clone git repository in <code>p
 
 ### In your Controllers or App Controller ###
 
+Load plugin in bootstrap.php (for CakePHP 2.x):
+
+	CakePlugin::load('Cakeless');
+
 Include the component using:
 
-	var $components = array('Cakeless.Cakeless');
+	public $components = array('Cakeless.Cakeless');
 
 Indicate the .less file you want to compile and the desired location and filename for the compiled file. For example:
 
@@ -39,8 +43,8 @@ Simply link to the CSS file as usual:
 ## Requirements ##
 
 * PHP version: PHP 5.2+
-* CakePHP version: Cakephp 1.3 Stable
-* lessphp version: 0.2.0 (no need to download, included in <code>/vendors</code> folder)
+* CakePHP version: Cakephp 2.x Stable
+* lessphp version: 0.3.5 (no need to download, included in <code>/vendors</code> folder)
 
 ## Support ##
 

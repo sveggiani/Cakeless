@@ -10,7 +10,7 @@
  * @copyright     Copyright 2011, Sebastián Veggiani (actionauta.com)
  * @author        Sebastián Veggiani <sveggiani@gmail.com>
  * @link          http://actionauta.com
- * @version       0.1
+ * @version       0.2
  * @package       cakeless
  * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
  **/
