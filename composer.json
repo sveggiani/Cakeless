@@ -14,6 +14,6 @@
     ],
     "require": {
       "composer/installers": "*",
-      "leafo/lessphp": "*"
+      "leafo/lessphp": "dev-master"
     }
 }
