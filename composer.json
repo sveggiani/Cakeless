@@ -1,5 +1,5 @@
 {
-    "name": "Cakeless",
+    "name": "electblake/cakeless",
     "type": "cakephp-plugin",
     "require": {
       "composer/installers": "*"
