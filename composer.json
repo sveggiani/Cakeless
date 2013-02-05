@@ -1,0 +1,7 @@
+{
+    "name": "Cakeless",
+    "type": "cakephp-plugin",
+    "require": {
+      "composer/installers": "*"
+    }
+}
