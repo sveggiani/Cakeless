@@ -1,0 +1,19 @@
+{
+    "name": "electblake/cakeless",
+    "type": "cakephp-plugin",
+    "description": "A very simple plugin for using phpless (a LESS php implementation) in CakePHP",
+    "authors": [
+      {
+        "name": "Sebastián Veggiani",
+        "homepage": "http://actionauta.com"
+      },
+      {
+        "name": "electblake",
+        "email": "electblake@gmail.com"
+      }
+    ],
+    "require": {
+      "composer/installers": "*",
+      "leafo/lessphp": "dev-master"
+    }
+}
