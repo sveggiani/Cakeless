@@ -1,6 +1,6 @@
 # Cakeless - A very simple lessphp plugin for CakePHP #
 
-This plugin is a very simple implementation of [lessphp](http://leafo.net/lessphp/) for CakePHP 2.x.
+This plugin is a very simple implementation of [lessphp](http://leafo.net/lessphp/) for CakePHP 2.x. (check 1.3 branch for CakePHP 1.3.x)
 
 To use Cakeless download and unzip the plugin or clone git repository in <code>plugins/cakeless</code>.
 
